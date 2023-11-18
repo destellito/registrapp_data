@@ -1,0 +1,50 @@
+{
+  "estudiante": [
+    {
+      "id": 1,
+      "nombre": "Demo Data",
+      "apellido": "Placeholder",
+      "rut": "12345678-k",
+      "email": "estudiante@prueba.cl",
+      "password": "123456",
+      "sede": "Maipú",
+      "jornada": "Diurna",
+      "isactive": true,
+      "asistencias": [
+        "1"
+      ]
+    },
+    {
+      "nombre": "Jorge Alberto",
+      "apellido": "Muñoz Molina",
+      "rut": "20389804-5",
+      "email": "jora.munoz@duocuc.cl",
+      "password": "12345",
+      "sede": "maipu",
+      "jornada": "Diurna",
+      "isactive": true,
+      "asistencias": [],
+      "id": 2
+    },
+    {
+      "nombre": "Lucas",
+      "apellido": "Duck",
+      "rut": "12345678-9",
+      "email": "estudiante2@prueba.cl",
+      "password": "12345",
+      "sede": "sancarlos",
+      "jornada": "Vespertina",
+      "isactive": true,
+      "asistencias": [],
+      "id": 3
+    }
+  ],
+  "asistencias": [
+    {
+      "id": 1,
+      "name": "Calidad de Software",
+      "code": "PGY777",
+      "fecha": "13-11-2023"
+    }
+  ]
+}
