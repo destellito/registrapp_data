@@ -44,7 +44,22 @@
       "id": 1,
       "name": "Calidad de Software",
       "code": "PGY777",
-      "fecha": "13-11-2023"
+      "fecha": "13-11-2023",
+      "idEst": "1"
+    },
+    {
+      "id": 2,
+      "name": "Arquitectura",
+      "code": "PGY7734",
+      "fecha": "17-11-2023",
+      "idEst": "1"
+    },
+    {
+      "id": 3,
+      "name": "Inglés",
+      "code": "PGY756",
+      "fecha": "13-11-2023",
+      "idEst": "1"
     }
   ]
 }
