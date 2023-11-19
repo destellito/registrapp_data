@@ -60,6 +60,13 @@
       "code": "PGY756",
       "fecha": "13-11-2023",
       "idEst": "1"
+    },
+    {
+      "id": 4,
+      "name": "Matemática",
+      "code": "PGY756",
+      "fecha": "13-11-2023",
+      "idEst": "2"
     }
   ]
 }
